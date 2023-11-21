@@ -16,7 +16,7 @@
   <li>Add the following command in your package.json file in the scripts section </li>
   <pre>"start": "react-scripts start --host 0.0.0.0"</pre>
   <li> Now run the react app on your PC.</li>
-  <pre>nom start</pre>
+  <pre>npm start</pre>
   <li>Next, open a browser in the mobile phone and type the following.</li>
   <pre>http://IP address of your computer:port number</pre>
 </ol>
