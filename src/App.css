@@ -1,0 +1,40 @@
+/* App.css */
+
+.App {
+    text-align: center;
+  }
+  
+  .team-members,
+  .team-projects,
+  .team-metrics,
+  .discussion-forum {
+    margin: auto;
+  }
+  
+  .team-member,
+  .team-project,
+  .forum-post,
+  .add-post {
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+  }
+  .team-metrics{
+    padding: 10px;
+    margin-left: 20px;
+    border: 2px solid black;
+  }
+  .forum-post {
+    background-color: #f8f9fa;
+  }
+  
+  .add-post textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .add-post button {
+    width: 100%;
+  }
+  
