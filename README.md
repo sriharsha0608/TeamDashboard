@@ -8,4 +8,17 @@
 <pre>npm install react-bootstrap bootstrap</pre>
 <p>Now, start building your application. Once, you're donw building the app, you can run it by using the below command</p>
 <pre>npm start</pre>
-
+<b>Testing:</b>
+<p>For testing on multiple devices. I tested it on my phone.</p>
+<p>To test the app on your phone follow the below steps.</p>
+<ol>
+  <li>Make sure the laptop and the mobile are connected to the same Wi-Fi network.</li>
+  <li>Add the following command in your package.json file in the scripts section </li>
+  <pre>"start": "react-scripts start --host 0.0.0.0"</pre>
+  <li> Now run the react app on your PC.</li>
+  <pre>nom start</pre>
+  <li>Next, open a browser in the mobile phone and type the following.</li>
+  <pre>http://IP address of your computer:port number</pre>
+</ol>
+<p>You can see the below image of the App on phone.</p>
+<img src="https://github.com/sriharsha0608/TeamDashboard/blob/main/Testing%20on%20Phone.jpeg"/>
